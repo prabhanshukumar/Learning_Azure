@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Unmount the disk /dev/sdc1.
-sudo umount /dev/sdc1
+# Unmount the disk /dev/sdb1.
+sudo umount /dev/sdb1
 
 # Resize partition 1 to be 128GB.
 # Read from standard input provide the options we want.
