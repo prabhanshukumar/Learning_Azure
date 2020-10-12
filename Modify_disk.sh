@@ -23,4 +23,4 @@ sudo e2fsck -f -p /dev/sdb1
 sudo resize2fs /dev/sdb1
 
 # Mount the drive (/dev/sdc1) back to the mount point (/uploads).
-sudo mount /dev/sdb1 /uploads
+sudo mount /dev/sdb1 /new
